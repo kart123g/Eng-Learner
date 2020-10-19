@@ -62,10 +62,8 @@ Introduction
 
 1.1 General Introduction to the topic
 To build a Eng Learner website ,it’s a provide a easy way without any signup and sign in and without any advertisement . It’s uses simple and easy frequent method to learn . This website a way to learn and build your language .  
-technology is blockchain. We have abstracted the application from the blockchain using a REST API that could support multiple channels such as web and mobile, and we provided block notifications via a standard WebSocket protocol.
 
 
-For a test network to simulate this application on a decentralized architecture, the next step would be to add more members to the Fabric network and have those members provision peers that join the same channel.
 About Eng Learner: -
 It’s  a  website  that provide a easy way to learn a language.
 How Eng Learner Works: -
